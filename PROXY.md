@@ -66,6 +66,9 @@ https://youtu.be/bHaL9ftU2zc
 
 ![Proxy 3](img/ios_Proxy_3.jpg)
 
+Not done yet! Make sure iOS fully trusts the certificate. 
+You can check and configure this setting at Settings > General > About > Certificate Trust Settings.
+
 ![Proxy 4](img/ios_Proxy_4.jpg)
 
 ### Android
